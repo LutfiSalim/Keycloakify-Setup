@@ -285,4 +285,3 @@ To test your theme with a real Keycloak instance:
 
 - [Keycloakify Documentation](https://github.com/keycloakify/keycloakify)
 - [Keycloak Themes Documentation](https://www.keycloak.org/docs/latest/server_development/#_themes)
-- [PatternFly Documentation](https://www.patternfly.org/v4/) (Keycloak's default UI framework)
